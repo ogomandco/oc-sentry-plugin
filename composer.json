@@ -1,4 +1,5 @@
 {
+    "name":"Offline/Sentry",
     "type":"october-plugin",
     "require": {
         "sentry/sentry": "^1.9",
